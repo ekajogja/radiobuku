@@ -2,3 +2,7 @@ Official [RadioBuku](http://radiobuku.com) streaming app built using Intel XDK a
 
 Releases:
 
+___
+
+License: GPLv2.
+
