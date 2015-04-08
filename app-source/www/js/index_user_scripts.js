@@ -19,10 +19,7 @@
     
     
         /* button  .uib_w_5 */
-    $(document).on("click", ".uib_w_5", function(evt)
-    {
-         activate_subpage("#uib_page_3"); 
-    });
+    
     
         /* button  .uib_w_8 */
     $(document).on("click", ".uib_w_8", function(evt)
@@ -41,6 +38,13 @@
     {
         /* your code goes here */
         intel.xdk.device.showRemoteSite("http://radiobuku.com/kronik-buku/",0,0,50,50);
+    });
+    
+        /* button  .uib_w_5 */
+    $(document).on("click", ".uib_w_5", function(evt)
+    {
+        /* your code goes here */
+        intel.xdk.device.showRemoteSite("http://radiobuku.com/jadwal-siar/",0,0,50,50);
     });
     
     }

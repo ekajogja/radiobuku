@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "appDesigner",
       "projectGuid": "4cb1b190-a05b-4dcc-a520-23f6bc2df386",
-      "lastModifiedDate": 1428467315317,
+      "lastModifiedDate": 1428469800409,
       "creationDate": 1428360405603
     },
     "XDK-app-designer": "true",
@@ -34,11 +34,15 @@
         "appAccess_": [
           {
             "launch-external": "yes",
-            "origin": "radiobuku.com"
+            "origin": "*radiobuku.com*"
           },
           {
             "launch-external": "yes",
-            "origin": "google.com"
+            "origin": "*google.com*"
+          },
+          {
+            "launch-external": "yes",
+            "origin": "*103.28.148.18:8254*"
           }
         ],
         "icons_": [
@@ -130,10 +134,10 @@
         "iosProvs_": [],
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "10",
-        "appVersion_": "15.04",
+        "appVersion_": "15.04.1",
         "appAuthor_": "Eka Y Saputra",
         "appDescription_": "Official Radio Buku Streaming App",
-        "appVersionCode_": "1"
+        "appVersionCode_": "2"
       },
       "Android-Crosswalk": {
         "platform_": "android",
