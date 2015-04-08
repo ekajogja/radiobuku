@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "appDesigner",
       "projectGuid": "4cb1b190-a05b-4dcc-a520-23f6bc2df386",
-      "lastModifiedDate": 1428488956848,
+      "lastModifiedDate": 1428500689201,
       "creationDate": 1428360405603
     },
     "XDK-app-designer": "true",
@@ -33,24 +33,63 @@
         "appID_": "com.ekajogja.radiobuku",
         "appAccess_": [
           {
-            "launch-external": "yes",
-            "origin": "*radiobuku.com*"
+            "origin": "www.radiobuku.com"
+          },
+          {
+            "origin": "www.ekajogja.com"
+          },
+          {
+            "origin": "www.google.com"
           },
           {
             "launch-external": "yes",
-            "origin": "*google.com*"
+            "origin": "www.twitter.com"
+          },
+          {
+            "origin": "103.28.148.18"
+          },
+          {
+            "origin": "fonts.googleapis.com"
+          },
+          {
+            "origin": "apis.google.com"
+          },
+          {
+            "origin": "s0.wp.com"
+          },
+          {
+            "origin": "s.gravatar.com"
+          },
+          {
+            "origin": "stats.wp.com"
+          },
+          {
+            "origin": "fonts.gstatic.com"
+          },
+          {
+            "origin": "pixel.wp.com"
+          },
+          {
+            "origin": "graph.facebook.com"
+          },
+          {
+            "origin": "cdn.api.twitter.com"
+          },
+          {
+            "origin": "accounts.google.com"
+          },
+          {
+            "origin": "oauth.googleusercontent.com"
+          },
+          {
+            "origin": "ssl.gstatic.com"
           },
           {
             "launch-external": "yes",
-            "origin": "*twitter.com*"
+            "origin": "calendar.google.com"
           },
           {
-            "launch-external": "yes",
-            "origin": "*ekajogja.com*"
-          },
-          {
-            "launch-external": "yes",
-            "origin": "*103.28.148.18*"
+            "origin": "clients6.google.com"
           }
         ],
         "icons_": [
@@ -142,10 +181,10 @@
         "iosProvs_": [],
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "10",
-        "appVersion_": "15.04.1",
+        "appVersion_": "15.04",
         "appAuthor_": "Eka Y Saputra",
         "appDescription_": "Official Radio Buku Streaming App",
-        "appVersionCode_": "3"
+        "appVersionCode_": "1"
       },
       "Android-Crosswalk": {
         "platform_": "android",
