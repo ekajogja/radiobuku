@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "appDesigner",
       "projectGuid": "4cb1b190-a05b-4dcc-a520-23f6bc2df386",
-      "lastModifiedDate": 1428471251849,
+      "lastModifiedDate": 1428488956848,
       "creationDate": 1428360405603
     },
     "XDK-app-designer": "true",
@@ -34,7 +34,23 @@
         "appAccess_": [
           {
             "launch-external": "yes",
-            "origin": "*"
+            "origin": "*radiobuku.com*"
+          },
+          {
+            "launch-external": "yes",
+            "origin": "*google.com*"
+          },
+          {
+            "launch-external": "yes",
+            "origin": "*twitter.com*"
+          },
+          {
+            "launch-external": "yes",
+            "origin": "*ekajogja.com*"
+          },
+          {
+            "launch-external": "yes",
+            "origin": "*103.28.148.18*"
           }
         ],
         "icons_": [

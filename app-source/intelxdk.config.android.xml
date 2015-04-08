@@ -8,7 +8,11 @@
 <description>Official Radio Buku Streaming App</description>
 <author>Eka Y Saputra</author>
 <content src="index.html"/>
-<access origin="*" launch-external="yes"/>
+<access origin="*radiobuku.com*" launch-external="yes"/>
+<access origin="*google.com*" launch-external="yes"/>
+<access origin="*twitter.com*" launch-external="yes"/>
+<access origin="*ekajogja.com*" launch-external="yes"/>
+<access origin="*103.28.148.18*" launch-external="yes"/>
 <icon platform="android" src="images/36.png" density="ldpi" width="36" height="36"/>
 <icon platform="android" src="images/48.png" density="mdpi" width="48" height="48"/>
 <icon platform="android" src="images/72.png" density="hdpi" width="72" height="72"/>
