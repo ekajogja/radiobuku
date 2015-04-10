@@ -19,25 +19,37 @@
 
 		<nav>
 			<button class="btn btn-large btn-block btn-primary utama" id="player"><i class="fa fa-play-circle"></i><span>PLAY STREAMING</span></button>
-			<button class="btn btn-large btn-block utama" id="jadwal"><i class="fa fa-calendar"></i><span>Jadwal Siaran</span></button>
+            <a href="http://www.radiobuku.com/kronik-buku/">
+                <button class="btn btn-large btn-block utama" id="jadwal"><i class="fa fa-calendar"></i><span>Jadwal Siaran</span></button>
+            </a>
 			<a href="https://www.twitter.com/intent/tweet?screen_name=radiobuku">
 				<button class="btn btn-large btn-block utama" id="tweet"><i class="fa fa-twitter"></i><span>Tweet @radiobuku</span></button>
 			</a>
-			<button class="btn btn-large btn-block utama" id="kronik"><i class="fa fa-book"></i><span>Kronik Buku</span></button>
+            <a href="http://www.radiobuku.com/kronik-buku/">
+                <button class="btn btn-large btn-block utama" id="kronik"><i class="fa fa-book"></i><span>Kronik Buku</span></button>
+            </a>
+            <a href="http://www.radiobuku.com/tentang-kami/">
 			<button class="btn btn-large btn-block utama" id="tentang"><i class="fa fa-institution"></i><span>Tentang Kami</span></button>
+            </a>
 		</nav>
 
 		<article>
-			
 			<div class="hidden" id="viewplayer">
+                <p></p>
 				<audio controls>
 					<source src="http://www.ekajogja.com:8000/radiobuku.ogg" type="audio/ogg">
 					<source src="http://103.28.148.18:8254/" type="audio/mpeg">
 					Browser perangkat Anda tidak mendukung audio.
 				</audio>
 				<p></p>
-				<button class="btn back"><i class="fa fa-home"></i> Ke menu utama</button>
+                <a href="https://www.twitter.com/intent/tweet?screen_name=radiobuku">
+                    <button class="btn"><i class="fa fa-twitter"></i><span>&nbsp;   @radiobuku</span></button>
+                </a>
+                <p></p>
+				<button class="btn back"><i class="fa fa-home"></i> menu utama</button>
 			</div>
+            
+<!-- BEGIN hidden iframe
 
 			<div class="hidden" id="viewkronik">
 				<button class="btn back"><i class="fa fa-home"></i> Ke menu utama</button>
@@ -63,10 +75,12 @@
 				<button class="btn back"><i class="fa fa-home"></i> Ke menu utama</button>
 			</div>
 
+END hidden iframe -->
+
 		</article>
 
 		<footer>
-			<small>RadioBuku Streaming App v15.04</small>
+			<small>RadioBuku Official Streaming App<br />v15.04 "Mataramse Vereneging Voor Radio Omroep"</small>
 		</footer>
 	
 	</div>

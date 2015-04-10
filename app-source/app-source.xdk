@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.webapp",
       "src": "appDesigner",
       "projectGuid": "4cb1b190-a05b-4dcc-a520-23f6bc2df386",
-      "lastModifiedDate": 1428500689201,
+      "lastModifiedDate": 1428658188472,
       "creationDate": 1428360405603
     },
     "XDK-app-designer": "true",
@@ -33,13 +33,12 @@
         "appID_": "com.ekajogja.radiobuku",
         "appAccess_": [
           {
+            "launch-external": "yes",
             "origin": "www.radiobuku.com"
           },
           {
+            "launch-external": "yes",
             "origin": "www.ekajogja.com"
-          },
-          {
-            "origin": "www.google.com"
           },
           {
             "launch-external": "yes",
@@ -47,49 +46,6 @@
           },
           {
             "origin": "103.28.148.18"
-          },
-          {
-            "origin": "fonts.googleapis.com"
-          },
-          {
-            "origin": "apis.google.com"
-          },
-          {
-            "origin": "s0.wp.com"
-          },
-          {
-            "origin": "s.gravatar.com"
-          },
-          {
-            "origin": "stats.wp.com"
-          },
-          {
-            "origin": "fonts.gstatic.com"
-          },
-          {
-            "origin": "pixel.wp.com"
-          },
-          {
-            "origin": "graph.facebook.com"
-          },
-          {
-            "origin": "cdn.api.twitter.com"
-          },
-          {
-            "origin": "accounts.google.com"
-          },
-          {
-            "origin": "oauth.googleusercontent.com"
-          },
-          {
-            "origin": "ssl.gstatic.com"
-          },
-          {
-            "launch-external": "yes",
-            "origin": "calendar.google.com"
-          },
-          {
-            "origin": "clients6.google.com"
           }
         ],
         "icons_": [

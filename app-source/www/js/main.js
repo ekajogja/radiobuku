@@ -8,6 +8,8 @@ $("#player").on("click", function(){
 	tombolUtama.toggle();
 });
 
+/* BEGIN deactivated events
+
 $("#kronik").on("click", function(){
 	$("#viewkronik").slideToggle();
 	tombolUtama.toggle();
@@ -22,6 +24,8 @@ $("#tentang").on("click", function(){
 	$("#viewtentang").slideToggle();
 	tombolUtama.toggle();
 });
+
+END deactivated events */
 
 $(".back").on("click", function(){
 	tombolUtama.toggle();
