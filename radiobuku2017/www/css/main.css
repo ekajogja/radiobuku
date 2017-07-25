@@ -1,0 +1,18 @@
+.container-fluid {
+	margin:0 auto;
+	padding-left:30px;
+	padding-right: 30px;
+	text-align: center;
+}
+header, nav, article {
+	margin-bottom: 30px;
+}
+.btn {
+	margin-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: left;
+}
+span {
+	float: right;
+}
